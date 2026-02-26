@@ -1,68 +1,68 @@
-# Hi there 👋 I'm Miguel Mayordomo
+<h1 align="center">Hi there 👋 I'm Miguel Mayordomo</h1>
+<h3 align="center">Frontend Developer | React & React Native Specialist</h3>
 
-Frontend Developer focused on building scalable web and mobile applications with React and React Native.
-
-I work on product-oriented environments, connecting interfaces with APIs, managing application state, and building reliable, maintainable user experiences.
+<p align="center">
+Building scalable web & mobile applications focused on performance, architecture and long-term maintainability.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-💻 Frontend Developer specialized in React & React Native  
-📱 Experience building cross-platform mobile and web apps  
-🔗 Strong background integrating REST APIs and authentication flows  
-⚡ Focused on performance, scalability and clean architecture  
-🧠 Interested in product development and long-term maintainability  
+- 💻 Frontend Developer specialized in **React & React Native**
+- 📱 Building cross-platform mobile and web applications
+- 🔗 Strong experience integrating **REST APIs & authentication flows**
+- ⚡ Focused on performance, scalability and clean architecture
+- 🧠 Product-oriented mindset
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 🎨 Frontend
-React · React Native · Next.js · Expo · JavaScript (ES6+) · TypeScript  
-HTML5 · CSS3 · Sass (SCSS) · Responsive Design  
-Formik · Yup · React Select  
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🔄 State & Data
-Zustand · TanStack Query · Axios · REST APIs  
-Firebase (Auth, Storage, Messaging)  
+
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 📱 Mobile
-Expo Router · React Navigation · Async Storage  
-Google Sign-In · Apple Authentication  
-React Native Maps  
 
-### 🏗 Architecture & Practices
-Modular Architecture · Component-Driven Design  
-Custom Hooks · State Persistence  
-Reusable UI Systems  
+![Expo Router](https://img.shields.io/badge/Expo_Router-000020?style=for-the-badge&logo=expo&logoColor=white)
+![React Navigation](https://img.shields.io/badge/React_Navigation-000000?style=for-the-badge)
+![React Native Maps](https://img.shields.io/badge/React_Native_Maps-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### 🤖 Automation & AI
-n8n · OpenAI · RAG Systems · Pinecone  
 
-### 🛠 Tools & Platforms
-Git · GitHub · Vite · Expo EAS  
-ESLint · Prettier · Testing Library  
-Docker (dev) · Postman · VS Code  
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-00A1E0?style=for-the-badge)
 
 ---
 
 ## 📌 Current Focus
 
-Currently working on cross-platform product development using:
-
-React · React Native · Expo · Zustand · TanStack Query
-
-Always improving performance patterns, data synchronization strategies and scalable frontend architectures.
+React · React Native · Expo · Zustand · TanStack Query  
+Improving performance patterns, data synchronization strategies and scalable frontend architectures.
 
 ---
 
 ## 📫 Let's Connect
 
-🌐 Portfolio: https://mayordomoespejo.com  
+🌐 Portfolio: https://mayordomo-espejo-portfolio.vercel.app 
 💼 LinkedIn: https://linkedin.com/in/miguel-mayordomo-espejo-779542203  
 📩 Email: miguelmayordomoespejo@gmail.com  
 
 ---
 
-_"Building interfaces that actually work."_
+<p align="center">
+"Building interfaces that actually work."
+</p>
