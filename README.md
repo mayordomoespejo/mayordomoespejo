@@ -1,11 +1,19 @@
-<h1 align="center">Hi there 👋 I'm Miguel Mayordomo</h1>
-<h3 align="center">Frontend Developer | React & React Native Specialist</h3>
+<h1 align="center">
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand" /> I'm Miguel Mayordomo
+</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+React+%26+React+Native+Specialist"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
 <p align="center">
 Building scalable web & mobile applications focused on performance, architecture and long-term maintainability.
 </p>
-
-<br/>
 
 ---
 
