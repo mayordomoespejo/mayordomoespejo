@@ -89,7 +89,7 @@ Continuously improving performance patterns, data synchronization strategies and
 ## 📫 Let's Connect
 
 🌐 Portfolio: https://mayordomo-espejo-portfolio.vercel.app  
-💼 LinkedIn: https://linkedin.com/in/miguel-mayordomo-espejo-779542203  
+💼 LinkedIn: www.linkedin.com/in/mayordomo-espejo
 📩 Email: miguelmayordomoespejo@gmail.com
 
 ---
