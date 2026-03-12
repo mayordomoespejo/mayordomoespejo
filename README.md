@@ -30,60 +30,48 @@ Building scalable web &amp; mobile applications focused on performance, architec
 
 ## 🛠 Tech Stack
 
-### 🎨 Languages & Core
+### Programming Languages & Frameworks
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### ⚛️ Frameworks & Libraries
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### 🎨 Styling & UI
-
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![React Select](https://img.shields.io/badge/React_Select-2684FF?style=for-the-badge)
-![i18next](https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white)
-
-### 📱 Mobile
-
-![Expo Router](https://img.shields.io/badge/Expo_Router-000020?style=for-the-badge&logo=expo&logoColor=white)
-![React Navigation](https://img.shields.io/badge/React_Navigation-000000?style=for-the-badge)
-![React Native Maps](https://img.shields.io/badge/React_Native_Maps-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Async Storage](https://img.shields.io/badge/Async_Storage-FF6B6B?style=for-the-badge)
-![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Push Notifications](https://img.shields.io/badge/Push_Notifications-FF6B35?style=for-the-badge)
-
-### 🔄 State & Data
+### State Management & Data
 
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![TanStack Table](https://img.shields.io/badge/TanStack_Table-FF4154?style=for-the-badge)
 ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=vuedotjs&logoColor=black)
 ![Vuex](https://img.shields.io/badge/Vuex-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
 
-### 📋 Forms & Validation
+### Forms & Validation
 
 ![Formik](https://img.shields.io/badge/Formik-172B4D?style=for-the-badge)
 ![Yup](https://img.shields.io/badge/Yup-000000?style=for-the-badge)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge)
 ![react-hook-form](https://img.shields.io/badge/react--hook--form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 
-### 🤖 Automation & AI
+### Mobile Development
+
+![Expo Router](https://img.shields.io/badge/Expo_Router-000020?style=for-the-badge&logo=expo&logoColor=white)
+![React Navigation](https://img.shields.io/badge/React_Navigation-000000?style=for-the-badge)
+![React Native Maps](https://img.shields.io/badge/React_Native_Maps-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Async Storage](https://img.shields.io/badge/Async_Storage-FF6B6B?style=for-the-badge)
+![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![WebView](https://img.shields.io/badge/WebView-000000?style=for-the-badge)
+![Push Notifications](https://img.shields.io/badge/Push_Notifications-FF6B35?style=for-the-badge)
+
+### Automation & AI
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -92,34 +80,41 @@ Building scalable web &amp; mobile applications focused on performance, architec
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
 
-### 🔧 Build & Tooling
+### UI & Styling
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass (SCSS)](https://img.shields.io/badge/Sass_(SCSS)-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-000000?style=for-the-badge)
+![React Select](https://img.shields.io/badge/React_Select-2684FF?style=for-the-badge)
+![i18n / i18next](https://img.shields.io/badge/i18n_%2F_i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white)
+
+### Build & Tooling
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Expo EAS](https://img.shields.io/badge/Expo_EAS-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
 ![SWC](https://img.shields.io/badge/SWC-000000?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### ✅ Code Quality
+### Code Quality
 
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 
 ---
 
-## 📌 Current Focus
-
-Currently building production web & mobile products at **Gyoza Technology Studio** using:
+## 📌 Core Stack
 
 **React · React Native · Expo · Vite · Next.js · Angular · Vue 3 · TypeScript · Zustand · TanStack Query · Pinia · Formik · Yup · Axios · Firebase · Google Maps API · i18next · Sass · n8n · OpenAI · Git**
-
-Continuously improving performance patterns, data synchronization strategies and scalable frontend architectures.
 
 ---
 
