@@ -112,8 +112,6 @@ Building scalable web &amp; mobile applications focused on performance, architec
 
 ## 📌 Current Focus
 
-Currently building production web & mobile products at **Gyoza Technology Studio** using:
-
 **React · React Native · Expo · Next.js · Angular · Vue 3 · TypeScript · Zustand · TanStack Query · Pinia · Formik · Yup · Axios · Firebase · Google Maps API · i18next · Sass · n8n · OpenAI · Git**
 
 Continuously improving performance patterns, data synchronization strategies and scalable frontend architectures.
