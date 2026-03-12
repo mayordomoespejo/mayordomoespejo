@@ -63,6 +63,7 @@ Building scalable web &amp; mobile applications focused on performance, architec
 ![React Native Maps](https://img.shields.io/badge/React_Native_Maps-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Async Storage](https://img.shields.io/badge/Async_Storage-FF6B6B?style=for-the-badge)
 ![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Push Notifications](https://img.shields.io/badge/Push_Notifications-FF6B35?style=for-the-badge)
 
 ### 🔄 State & Data
 
@@ -70,6 +71,7 @@ Building scalable web &amp; mobile applications focused on performance, architec
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![TanStack Table](https://img.shields.io/badge/TanStack_Table-FF4154?style=for-the-badge)
 ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=vuedotjs&logoColor=black)
+![Vuex](https://img.shields.io/badge/Vuex-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge)
@@ -86,8 +88,9 @@ Building scalable web &amp; mobile applications focused on performance, architec
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+![RAG Systems](https://img.shields.io/badge/RAG_Systems-000000?style=for-the-badge)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
 
 ### 🔧 Build & Tooling
 
@@ -112,7 +115,9 @@ Building scalable web &amp; mobile applications focused on performance, architec
 
 ## 📌 Current Focus
 
-**React · React Native · Expo · Next.js · Angular · Vue 3 · TypeScript · Zustand · TanStack Query · Pinia · Formik · Yup · Axios · Firebase · Google Maps API · i18next · Sass · n8n · OpenAI · Git**
+Currently building production web & mobile products at **Gyoza Technology Studio** using:
+
+**React · React Native · Expo · Vite · Next.js · Angular · Vue 3 · TypeScript · Zustand · TanStack Query · Pinia · Formik · Yup · Axios · Firebase · Google Maps API · i18next · Sass · n8n · OpenAI · Git**
 
 Continuously improving performance patterns, data synchronization strategies and scalable frontend architectures.
 
@@ -130,7 +135,7 @@ Continuously improving performance patterns, data synchronization strategies and
 ## 📫 Let's Connect
 
 🌐 Portfolio: https://portfolio.mayordomoespejo.com<br/>
-💼 LinkedIn: https://linkedin.com/in/mayordomo-espejo<br/>
+💼 LinkedIn: https://linkedin.com/in/mayordomoespejo<br/>
 📩 Email: miguelmayordomoespejo@gmail.com
 
 ---
